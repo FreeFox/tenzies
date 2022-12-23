@@ -49,7 +49,7 @@ h1.title {
   display: grid;
   flex-direction: row;
   grid-template: auto auto / repeat(5, 1fr);
-  gap: 18px
+  gap: 18px;
 }
 
 .roll {
